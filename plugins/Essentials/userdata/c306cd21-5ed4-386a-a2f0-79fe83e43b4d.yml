@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 142.231.27.232
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1710059881915
+  login: 1710052860107
+money: '0'
+last-account-name: chinbi
+logoutlocation:
+  world: 23944a39-cbd4-4e7c-8993-3407c687e87c
+  world-name: world
+  x: 70.03468598715682
+  y: 64.0
+  z: -16.12386853687638
+  yaw: -50.1329345703125
+  pitch: 16.800045013427734
+lastlocation:
+  world: 9bb89443-433e-460e-a5b4-6a3d25671ced
+  world-name: world_the_end
+  x: 2247.300000011921
+  y: 57.0
+  z: 3808.6607494827986
+  yaw: 108.4697265625
+  pitch: 16.556121826171875

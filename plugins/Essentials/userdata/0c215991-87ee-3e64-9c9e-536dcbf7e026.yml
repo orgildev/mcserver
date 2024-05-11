@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 142.231.166.3
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1710059709619
+  login: 1710057140047
+money: '0'
+last-account-name: tubu_desu_ka
+logoutlocation:
+  world: 23944a39-cbd4-4e7c-8993-3407c687e87c
+  world-name: world
+  x: 60.60421594028966
+  y: 64.0
+  z: 22.32092909634001
+  yaw: -173.437744140625
+  pitch: 23.549938201904297
+lastlocation:
+  world: 9bb89443-433e-460e-a5b4-6a3d25671ced
+  world-name: world_the_end
+  x: 2262.066142052915
+  y: -40.516133864305196
+  z: 3820.74581603797
+  yaw: -20.56573486328125
+  pitch: 39.59986114501953
